@@ -1,0 +1,29 @@
+html,body{
+	border: 0;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+    background: #f9f8fc;
+}
+
+.header{
+    background-color: #f9f8fc;
+}
+
+.body{
+    background-color: #f9f8fc;
+}
+.body form{
+    margin-top: 100px;
+    padding: 20px 20px 20px 20px;
+    width: 500px;
+    border: 2px solid #f8f9fc;
+    box-shadow: 3px 3px 3px 3px #dcdcdc;
+    background-color: #f9f8fc;
+}
+
+.body form .header{
+    color: #4e73df;
+    font-size: 30px;
+    font-weight: bold;
+}
